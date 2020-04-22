@@ -2,7 +2,7 @@
 
 Proposito del proyecto:
 version o fecha:21/4/20
-como iniciar este proyecto: Ejecutar el metodo mai
+como iniciar este proyecto: Ejecutar el metodo main
 Autor:Uriel Solano Jeronimo
 Instrucccion:
 Para la prueba del programa, debes ejecutar el metodo main en la clase prueba
